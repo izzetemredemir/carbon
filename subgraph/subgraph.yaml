@@ -6,9 +6,9 @@ dataSources:
     name: CarbonMarket
     network: scroll-sepolia
     source:
-      address: "0x75cb2bcB56f0712bE0547FaB926b781803b73faC"
+      address: "0xA09606fbE78A8aAD5b2022F8da3A9e3411FB3a31"
       abi: CarbonMarket
-      startBlock: 2297885
+      startBlock: 2302300
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.7
@@ -29,9 +29,9 @@ dataSources:
     name: Avatar
     network: scroll-sepolia
     source:
-      address: "0x1fCF987D68cD32Dd0de8c8d74676Cd0Ba753fcDc"
+      address: "0xbCb425998f87AE6836Da6Ed38fcD06b66889B702"
       abi: Avatar
-      startBlock: 2297882
+      startBlock: 2302297
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.7
@@ -55,9 +55,9 @@ dataSources:
     name: Certificate
     network: scroll-sepolia
     source:
-      address: "0xD72Cd97d767f3c3cA51d608c63DCc7291C3d6DA3"
+      address: "0xbFebC4F091608a843178D25CF7EA40cE4976c44F"
       abi: Certificate
-      startBlock: 2297884
+      startBlock: 2302299
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.7
